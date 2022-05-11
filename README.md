@@ -8,7 +8,8 @@ Analise e Desenvolvimento de Sistas .
 Html, Algaritmo .
 <div  aling = "centro">
 <  a href = "https://github.com/Tamires95378">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamires95378&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src=" https://github-readme-stats.vercel.app/api?username=tamires95378&show_icons=true&include_all_commits=true&count_private=true"/ >
+![image](https://user-images.githubusercontent.com/95265774/167964519-c1047352-a642-43e5-8617-24f286153772.png)
 
 
 -->
