@@ -6,4 +6,8 @@
 - 🌱 I’m currently learning ...
 Analise e Desenvolvimento de Sistas .
 Html, Algaritmo .
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamires95378&show_icons=true&include_all_commits=true&count_private=true"/>
+
+
 -->
