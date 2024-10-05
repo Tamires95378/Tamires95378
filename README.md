@@ -1,7 +1,6 @@
 ### Oi! Eu sou a Tamires Rodrigues
 
-- Estou trabalhando em projetos externos
-- Graduando Análise é Desenvolvimento de Sistemas.
+- Formada em Análise é Desenvolvimento de Sistemas.
 - Quero colaborar em projetos que me faça evoluir profissionalmente.
 
 
